@@ -1,0 +1,24 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+.sober-dan {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    border: 5px solid transparent;
+    margin-left: 20px;
+}
+
+.qualities-sober {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    margin-left: 50px;
+}

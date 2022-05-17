@@ -19,6 +19,9 @@ export default function AboutSober() {
         <li>Can carry you if you get too drunk!</li>
     </ul>
     </div>
+    <div className="superman">
+      <img src="../static/assest/super-man.jpg" alt="superman"></img>
+    </div>
 </div>
   );
 }

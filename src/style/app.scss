@@ -1,6 +1,32 @@
+
+.heading {
+    color: rgb(96, 242, 12);
+    padding: 30px;
+    font-size: 15px;
+}
+
 .pros-cons {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
-    width: 100%;
+    color: rgb(255, 234, 0);
+    margin-left: 25px;
+    font-size: 10px;
+}
+
+
+
+
+.background {
+    background-color: rgb(200, 197, 197);
+    background-image: url("../../static/assets/funguy.jpg");
+    height: 100vw;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+
+.spacer {
+    height: 100px;
 }
